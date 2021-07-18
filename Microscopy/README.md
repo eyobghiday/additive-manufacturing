@@ -1,6 +1,6 @@
-##Microscopy and Python Plotting
+# Microscopy and Python Plotting
 
-### ImageJ Analysis
+## ImageJ Analysis
 
 
 After all data samples are processed we need to see which printing parameters suit for our alloy. In order to study that we need to plot all the data we have on an excel/scv file in python or java code.
