@@ -11,8 +11,7 @@ This is analyzing the Laser Powder Bed Fusion (LPBF) of Titanium-64 alloy. Here 
 The graph below shows the comparison of the power of the laser while printing the sample and against the scan speed of the laser. After all data samples are processed we need to see which printing   parameters suit for our alloy. In order to study that we need to plot all the data we have on an excel/scv file in in the data folder using python or java.
 Then we can compare and see how each sample's parameters are best suited for our project going forward. 
 
-![Power vs. Scanspeed](data/graph01.jpg | width="250px" height="250px") 
-<img src="data/graph01.jpg" width="60%" height="60%">
+<img src="data/graph01.jpg" width="70%" height="70%" alt="Power vs Scanspeed">
 
 
 ## Porosity vs Parameter
