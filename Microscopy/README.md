@@ -12,7 +12,7 @@ The graph below shows the comparison of the power of the laser while printing th
 Then we can compare and see how each sample's parameters are best suited for our project going forward. 
 
 ![Power vs. Scanspeed](data/graph01.jpg | width="250px" height="250px") 
-<img src="data/graph01.jpg" width="100" height="100">
+<img src="data/graph01.jpg" width="60%" height="60%">
 
 
 ## Porosity vs Parameter
